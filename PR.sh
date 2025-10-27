@@ -2,7 +2,7 @@
 
 <<info
 Daily Backup of shellscript
-
+This line is added to Daily Backup Script for confirmation that it isworking fine with CRON
 eg.
 ./backup.sh <source> <dest>
 
